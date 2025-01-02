@@ -26,14 +26,11 @@ and high — performance systems
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="c.gif" alt="C" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="sql1.gif" alt="MySQL" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="git.gif" alt="Nginx" height="40" /></a>  
-<!-- <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="Kubernetes.gif" alt="Kubernetes" height="40" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="bash.gif" alt="Bash" height="40" /></a>   -->
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="Kubernetes.png" alt="Kubernetes.png" height="40" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="linux.gif" alt="Linux" height="40" /></a>  
-<!-- <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="jenkins.gif" alt="Jenkins" height="40" /></a>   -->
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="github.gif" alt="Git" height="40" /></a>  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="RabbitMQ.png" alt="RabbitMQ" height="40" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="arduino.gif" alt="Arduino" height="40" /></a>  
-<!-- <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="graphql.gif" alt="GraphQL" height="40" /></a>   -->
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="ansible.gif" alt="Ansible" height="40" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="docker.gif" alt="Docker" height="40" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="gitlab.gif" alt="GitLab" height="40" /></a>    
