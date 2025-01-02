@@ -25,7 +25,7 @@ and high — performance systems
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="python.gif" alt="Python" height="40" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="c.gif" alt="C" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="sql1.gif" alt="MySQL" height="40" /></a>
-<!-- <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="nginx.png" alt="Nginx" height="40" /></a>   -->
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="git.gif" alt="Nginx" height="40" /></a>  
 <!-- <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="Kubernetes.gif" alt="Kubernetes" height="40" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="bash.gif" alt="Bash" height="40" /></a>   -->
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="linux.gif" alt="Linux" height="40" /></a>  
