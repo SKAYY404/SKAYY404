@@ -36,11 +36,9 @@ and high — performance systems
 <!-- <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="graphql.gif" alt="GraphQL" height="40" /></a>   -->
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="ansible.gif" alt="Ansible" height="40" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="docker.gif" alt="Docker" height="40" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="gitlab.gif" alt="GitLab" height="40" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>    
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="25" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="gitlab.gif" alt="GitLab" height="40" /></a>    
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="terraform.png" alt="Terraform" height="40" /></a>  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="oracle.gif" alt="Oracle" height="40" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
