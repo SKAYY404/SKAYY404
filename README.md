@@ -23,7 +23,7 @@ and high — performance systems
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="python.gif" alt="Python" height="40" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="c.gif" alt="C" height="40" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="c.gif" alt="C" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="sql1.gif" alt="MySQL" height="40" /></a>
 <!-- <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="nginx.png" alt="Nginx" height="40" /></a>   -->
 <!-- <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="Kubernetes.gif" alt="Kubernetes" height="40" /></a>  
@@ -39,7 +39,7 @@ and high — performance systems
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="gitlab.gif" alt="GitLab" height="40" /></a>    
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="terraform.png" alt="Terraform" height="40" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="oracle.gif" alt="Oracle" height="40" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" /></a>  
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="kafka.png" alt="Kafka" height="40" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 <a href="https://www.openstack.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="25" /></a>  
