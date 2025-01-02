@@ -40,10 +40,8 @@ and high — performance systems
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="terraform.png" alt="Terraform" height="40" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="oracle.gif" alt="Oracle" height="40" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="kafka.png" alt="Kafka" height="40" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://www.openstack.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="25" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
+<a href="https://www.openstack.org/" target="_blank"><img style="margin: 10px" src="openstack.png" alt="OpenStack" height="40" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="android.gif" alt="Android" height="40" /></a>  
 </div>  
 
 <br/>  
