@@ -23,7 +23,6 @@ and high — performance systems
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="sql1.gif" alt="MySQL" height="40" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="mysql.svg" alt="MySQL" height="40" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="python.gif" alt="Python" height="40" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="nginx.svg" alt="Nginx" height="25" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="kubernetes.svg" alt="Kubernetes" height="25" /></a>  
