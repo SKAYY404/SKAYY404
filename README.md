@@ -20,7 +20,7 @@ and high — performance systems
 
 <br/>  
 
-## Languages and Tools  
+## Languages ​​and tools I use 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="python.gif" alt="Python" height="40" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="c.gif" alt="C" height="50" /></a>  
@@ -51,21 +51,22 @@ and high — performance systems
 
 <br/>  
 
-----
+## Contact with me
 
 <br/>  
 
 <a href="https://github.com/SKAYY404" target="_blank">
 <img src='git.svg' alt=github style="margin-bottom: 5px;" />
 </a>  
-  <a href="https://github.com/SKAYY404" target="_blank">
+<!-- <a href="https://github.com/SKAYY404" target="_blank">
 <img src='telegram.png' alt=github style="margin-bottom: 5px;" height="27"  />
-</a> 
+</a>  -->
 
 <br/>  
 
   
 
-<br/>  
+
+
 
 
